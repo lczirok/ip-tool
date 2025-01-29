@@ -1,0 +1,8 @@
+NAMESPACE,NAME,READY,STATUS,RESTARTS,AGE,IP,NODE,NOMINATED,NODE,READINESS,GATES
+kube-system,coredns-668d6bf9bc-gch6m,1/1,Running,0,27m,10.244.0.2,minikube,<none>,<none>
+kube-system,etcd-minikube,1/1,Running,0,27m,192.168.49.2,minikube,<none>,<none>
+kube-system,kube-apiserver-minikube,1/1,Running,0,27m,192.168.49.2,minikube,<none>,<none>
+kube-system,kube-controller-manager-minikube,1/1,Running,0,27m,192.168.49.2,minikube,<none>,<none>
+kube-system,kube-proxy-9fgkv,1/1,Running,0,27m,192.168.49.2,minikube,<none>,<none>
+kube-system,kube-scheduler-minikube,1/1,Running,0,27m,192.168.49.2,minikube,<none>,<none>
+kube-system,storage-provisioner,1/1,Running,1,(27m,ago),27m,192.168.49.2,minikube,<none>,<none>
